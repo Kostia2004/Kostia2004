@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 
-![Metrics](https://metrics.lecoq.io/Kostia2004?template=classic&isocalendar=1&lines=1&isocalendar.duration=half-year&config.timezone=UTC)
-<!--
+![Metrics](https://metrics.lecoq.io/Kostia2004?template=classic&isocalendar=1&lines=1&projects=1&code=1&languages=1&followup=1&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&followup.sections=repositories&followup.indepth=false&projects.limit=4&projects.descriptions=false&code.lines=12&code.load=100&code.days=3&code.visibility=public&config.timezone=UTC)<!--
 **Kostia2004/Kostia2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
