@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+
+![Metrics](https://metrics.lecoq.io/Kostia2004?template=classic&isocalendar=1&lines=1&isocalendar.duration=half-year&config.timezone=UTC)
 <!--
 **Kostia2004/Kostia2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
